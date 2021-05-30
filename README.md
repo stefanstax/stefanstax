@@ -36,12 +36,6 @@ ____
 ![React](https://img.shields.io/badge/-React-282C34.svg?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux)
 
-### Backend
-![Soon](https://img.shields.io/badge/-SOON-orange)
-
-### Databases
-![Soon](https://img.shields.io/badge/-SOON-orange)
-
 </details>
 
 ---
