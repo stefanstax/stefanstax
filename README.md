@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alessandro Maggio</h1>
-<h3 align="center">I'm a developer passionate about Web Development, Scripting, and recently interested also in the CyberSecurity and DevOps fields.</h3>
+<h1 align="center">Hi 👋, I'm Stefan Stax Miljkovic</h1>
+<h3 align="center">I'm a developer passionate about Web Development, Scripting.</h3>
 
 ### My goals for 2020/21
 - Dig deeper in React world;
