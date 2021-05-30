@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**staxstefan/staxstefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Stefan Stax | Profile Readme
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ 9a2065e5-f160-4545-8c37-9730b48a41ea }}
+          GH_TOKEN: ${{ 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 }}
+          SHOW_SHORT_INFO: true
+          SHOW_IS: true
+          SHOW_PROJECTS: true
+          SHOW_COMMIT: true
+          SHOW_DAY_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          
+          
