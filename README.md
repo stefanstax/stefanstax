@@ -9,7 +9,7 @@
 </br>
 
 <!-- Furry Cat -->
-[<img align="Right" width="250px" src="https://octodex.github.com/catstello/" />][github]
+[<img align="Right" width="250px" src="https://octodex.github.com/images/catstello.png" />][github]
 
 
 **About me:**
