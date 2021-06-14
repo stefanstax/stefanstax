@@ -1,4 +1,4 @@
-## Hello there, fellow \<coders/>!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi Friend, how are you? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!-- Visitor badge -->
@@ -9,7 +9,7 @@
 </br>
 
 <!-- Furry Cat -->
-[<img align="Right" width="250px" src="https://octodex.github.com/images/catstello.png" />][github]
+[<img align="Right" width="280px" src="https://res.cloudinary.com/dnqicdh71/image/upload/v1622378586/stax_image_l49neq.jpg" />][github]
 
 
 **About me:**
