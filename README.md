@@ -9,22 +9,20 @@
 </br>
 
 <!-- Furry Cat -->
-[<img align="Right" width="250px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
+[<img align="Right" width="250px" src="https://octodex.github.com/catstello/" />][github]
 
 
 **About me:**
 
-- Hey there, I am **Stefan Stax**, a front-end developer for Zepter International.
-
-- 😄 *Pronouns:* He / His
+- Hey there, I am **Stefan Stax**, a front-end developer aiding Zepter International in the newest mobile Application and Web Shop.
 
 - I am a self-taught learner and a team player.
 
 - 💬 Ask me about anything. I would love to help.
 
-- 🌱 I’m currently learning nodejs.
+- 🌱 I’m currently learning reactjs.
 
-- I currently use [**vscode**](https://code.visualstudio.com/) as my text editore and [**ubuntu**](https://ubuntu.com/) as my workstaton.
+- I currently use [**vscode**](https://code.visualstudio.com/) as my text editor.
 
 ---
 
@@ -34,13 +32,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
-**Some of the technologies I have worked with**
+**Some of the technologies I'm working with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FCC624)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=082D1F)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=84BB3E)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=84BB3E)
 
 
 ---
@@ -51,6 +49,7 @@
 </br>
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </br>
@@ -62,14 +61,14 @@
 
 </br>
 
-<img align="center" alt="Stax's Github Stats" src="https://github-readme-stats.stefanstax.vercel.app/api?username=stefanstax&&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&show_owner=true" />
+<img align="center" alt="Stax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stefanstax&show_icons=true&theme=tokyonight" />
 
-<img align="center" alt="Stax's Top Language" src="https://github-readme-stats.stefanstax.vercel.app/api/top-langs/?username=stefanstax&layout=compact&theme=tokyonight" />
+<img align="center" alt="Stax's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanstax&langs_count=8&theme=tokyonight" />
 
 </br>
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman08&" alt="Raman Streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanstax&" alt="Stefan Stax" /></p>
 
 </br>
 
