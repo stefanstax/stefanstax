@@ -2,21 +2,11 @@
 
 
 <!-- Visitor badge -->
-[![Visits Badge](https://badges.pufler.dev/visits/raman08/raman08)](https://badges.pufler.dev/visits/raman08/raman08)
+[![Visits Badge](https://badges.pufler.dev/visits/stefanstax/stefanstax)](https://badges.pufler.dev/visits/raman08/raman08)
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
-[![GitHub followers](https://img.shields.io/github/followers/raman08?label=Followers&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
+[![GitHub followers](https://img.shields.io/github/followers/stefanstax?label=Followers&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
 
 </br>
-
-<!-- **My Current Spotify Music** -->
-[<img  align="right" width="250px" title="Spotify" src="https://github-spotify-player.vercel.app/api/spotify-playing" alt="Spotify Now Playing"  />][spotify]
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
 
 <!-- Furry Cat -->
 [<img align="Right" width="250px" src="https://octodex.github.com/images/hula_loop_octodex03.gif" />][github]
@@ -110,8 +100,6 @@
 [github]: https://github.com/stefanstax
 [spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
 
-[My Site]: https://raman08.github.io
-
 </br>
 
 
@@ -119,7 +107,7 @@
 
 <!---
 
-**raman08/raman08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**stefanstax/stefanstax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
