@@ -4,7 +4,7 @@
 <!-- Visitor badge -->
 [![Visits Badge](https://badges.pufler.dev/visits/stefanstax/stefanstax)](https://badges.pufler.dev/visits/raman08/raman08)
 [![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
-[![GitHub followers](https://img.shields.io/github/followers/stefanstax?label=Followers&style=social)](https://github.com/raman08/?tab=follow) <!-- No. of followers -->
+[![GitHub followers](https://img.shields.io/github/followers/stefanstax?label=Followers&style=social)](https://github.com/stefanstax/?tab=follow) <!-- No. of followers -->
 
 </br>
 
@@ -26,19 +26,22 @@
 
 ---
 
-**Languages I have used**
+**Languages I'm using**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+
+**Libraries I'm using**
+
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FCC624)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=082D1F)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=84BB3E)
 
 **Some of the technologies I'm working with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FCC624)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=082D1F)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=84BB3E)
 
 
 ---
