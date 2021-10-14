@@ -20,7 +20,7 @@
 
 - 💬 Ask me about anything. I would love to help.
 
-- 🌱 I’m currently learning reactjs.
+- 🌱 I’m currently learning reactjs as well as improving in WordPress.
 
 - I currently use [**vscode**](https://code.visualstudio.com/) as my text editor.
 
@@ -38,11 +38,10 @@
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=082D1F)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=84BB3E)
 
-**Some of the technologies I'm working with**
+**Some of the versioning tools I'm working with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
 
 ---
 
