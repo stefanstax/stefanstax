@@ -1,125 +1,38 @@
-## Hi Friend, how are you? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I am Stefan Stax - aka [stefanstax](https://github.com/stefanstax)!👋
+- 🌱 I'm a Front-End Developer currently working full-time for Zepter International as well as on my freelance network.
+- 👯 I can help your business thrive using strategies that I've learned from high-scale company owners but also small-time business managers.
+- ⚡ Fun fact: I like doing pro-bono projects, if you have a good idea but not a reliable developer, send me an <a href="mailto:contact@stefanstax.me?subject=Hey, I would like to ask about ... (github readme)">email</a>.
 
+## Connect with me
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+<br />
+<br />
 
-<!-- Visitor badge -->
-[![Visits Badge](https://badges.pufler.dev/visits/stefanstax/stefanstax)](https://badges.pufler.dev/visits/raman08/raman08)
-[![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)][github] <!-- Gender Badge -->
-[![GitHub followers](https://img.shields.io/github/followers/stefanstax?label=Followers&style=social)](https://github.com/stefanstax/?tab=follow) <!-- No. of followers -->
+## Languages and Tools:
 
-</br>
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
+<img align="left" alt="Php" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="WordPress" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
-<!-- Furry Cat -->
-[<img align="Right" width="280px" src="https://res.cloudinary.com/dnqicdh71/image/upload/v1622378586/stax_image_l49neq.jpg" />][github]
+<img align="left" alt="Tailwind" width="30px"  src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/tailwind/tailwind.png" />
+<img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<br></br>
 
-**About me:**
+## GitHub Stats
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=stefanstax&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=stefanstax&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
 
-- Hey there, I am **Stefan Stax**, a front-end developer aiding Zepter International in the newest mobile Application and Web Shop.
-
-- I am a self-taught learner and a team player.
-
-- 💬 Ask me about anything. I would love to help.
-
-- 🌱 I’m currently learning reactjs as well as improving in WordPress.
-
-- I currently use [**vscode**](https://code.visualstudio.com/) as my text editor.
-
----
-
-**Languages I'm using**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-
-**Libraries I'm using**
-
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FCC624)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=082D1F)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=tailwind&logoColor=84BB3E)
-
-**Some of the versioning tools I'm working with**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
----
-
-<details>
-  <summary>:zap: <b> Recent Github Activity </b></summary>
-
-</br>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</br>
-
-</details>
-
-<details>
-    <summary> :zap: <b>Github Stats</b> </summary>
-
-</br>
-
-<img align="center" alt="Stax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=stefanstax&show_icons=true&theme=tokyonight" />
-
-<img align="center" alt="Stax's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanstax&langs_count=8&theme=tokyonight" />
-
-</br>
-</br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanstax&" alt="Stefan Stax" /></p>
-
-</br>
-
-</details>
-
-
-<details>
-    <summary> :zap: <b>More About Me</b> </summary>
-
-</br>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-</br>
-
-</details>
-
-</br>
-
-<!-- End Point -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
-
-<!-- Alisses -->
-[mail]: mailto:stefanstaxbusiness@gmail.com
-[instagram]: https://www.instagram.com/devstax/
-[linkedin]: https://www.linkedin.com/in/stefan_miljkovic
-[github]: https://github.com/stefanstax
-[spotify]: https://open.spotify.com/user/31pyxhfmqwp7vm36ospr2te7m2qu
-
-</br>
-
-
-
-
-<!---
-
-**stefanstax/stefanstax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+[linkedin]: https://www.linkedin.com/in/stefan-miljkovic/
+[instagram]: https://www.instagram.com/bettercallstax/
