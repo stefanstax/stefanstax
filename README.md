@@ -1,8 +1,3 @@
-## Hi there, I am Stefan Stax - aka [stefanstax](https://github.com/stefanstax)!👋
-- 🌱 I'm a Front-End Developer currently working full-time for Zepter International as well as on my freelance network.
-- 👯 I can help your business thrive using strategies that I've learned from high-scale company owners but also small-time business managers.
-- ⚡ Fun fact: I like doing pro-bono projects, if you have a good idea but not a reliable developer, send me an <a href="mailto:contact@staxy.io?subject=Hey, I would like to ask about ... (github readme)">email</a>.
-
 ## Connect with me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
