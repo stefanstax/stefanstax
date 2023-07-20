@@ -33,4 +33,4 @@
 </center>
 
 [linkedin]: https://www.linkedin.com/in/stefan-miljkovic/
-[instagram]: https://www.instagram.com/staxtalks/
+[instagram]: https://www.instagram.com/staxarok/
