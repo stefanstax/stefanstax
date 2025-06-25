@@ -35,4 +35,4 @@
 </center>
 
 [linkedin]: https://www.linkedin.com/in/stefanstax/
-[instagram]: https://www.instagram.com/staxarok/
+[instagram]: https://www.instagram.com/askmaypact/
